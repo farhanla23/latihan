@@ -6,3 +6,4 @@ var x={
 
 console.log(x.nama)
 console.log(x.pekerjaan)
+console.log(x.usia)
