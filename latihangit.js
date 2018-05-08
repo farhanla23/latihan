@@ -4,4 +4,5 @@ var x={
     pekerjaan : 'PNS'
 }
 
-console.log(x)
+console.log(x.nama)
+console.log(x.pekerjaan)
